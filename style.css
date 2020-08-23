@@ -1,0 +1,76 @@
+body {
+  background-color: #003c34;
+}
+
+h1 {
+  color: white; 
+  font-family: courier;
+  text-align:center;
+}
+
+h3 {
+  color: white; 
+  font-family: courier;
+  text-align:left;
+  margin:50px;
+}
+
+p {
+  color: white; 
+  font-family: courier;
+  margin:50px;
+}
+
+div {
+  color: white; 
+  font-family: courier;
+  text-align:center;
+}
+
+pre {
+  color: white;
+}
+
+table {
+  color: white;
+  margin:50px;
+  font-family: courier;
+  text-align:left;
+  width:100%
+}
+
+ul {
+  list-style-type: none;
+  margin: 50px;
+  padding: 0;
+  color: white; 
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+footer {
+  color: white;
+  text-align:center;
+}
